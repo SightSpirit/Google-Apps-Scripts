@@ -15,7 +15,6 @@ function bold() {
   
   while (foundElement != null) {
     var foundText = foundElement.getElement().asText();
-    var textString = foundText.getText();
 
     var start = foundElement.getStartOffset();
     var end = foundElement.getEndOffsetInclusive();
@@ -35,7 +34,6 @@ function italic() {
   
   while (foundElement != null) {
     var foundText = foundElement.getElement().asText();
-    var textString = foundText.getText();
 
     var start = foundElement.getStartOffset();
     var end = foundElement.getEndOffsetInclusive();
@@ -55,7 +53,6 @@ function strike() {
   
   while (foundElement != null) {
     var foundText = foundElement.getElement().asText();
-    var textString = foundText.getText();
 
     var start = foundElement.getStartOffset();
     var end = foundElement.getEndOffsetInclusive();
