@@ -2,11 +2,14 @@
 *Chat Markup Formatter*
 by Eric Biskin (SightSpirit)
 https://github.com/SightSpirit/
+https://www.ultimalia.net
 
 [bold(), italic(), and strike() are adapted from https://stackoverflow.com/a/42929145]
 Distributed under the MIT License. Please don't use this code for commercial purposes.
 
 Interprets and removes formatting markup from chat apps like Slack and Rocket.Chat. Supports bold, italics, and strikethrough.
+
+Install this script as a Google Docs Add-on: https://chrome.google.com/webstore/detail/chat-markup-formatter/mpjaclocpmmicbgmpeechnjejepaklcl
 */
 
 function bold() {
