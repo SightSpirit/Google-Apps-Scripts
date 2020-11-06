@@ -1,6 +1,6 @@
 /*
 *Chat Markup Formatter*
-by Eric Biskin (SightSpirit)
+by Eden Biskin (SightSpirit)
 https://github.com/SightSpirit/
 https://www.ultimalia.net
 
@@ -9,7 +9,7 @@ Distributed under the MIT License. Please don't use this code for commercial pur
 
 Interprets and removes formatting markup from chat apps like Slack and Rocket.Chat. Supports bold, italics, and strikethrough.
 
-Install this script as a Google Docs Add-on: https://chrome.google.com/webstore/detail/chat-markup-formatter/mpjaclocpmmicbgmpeechnjejepaklcl
+Install this script as a Google Docs Add-on: [URL coming soon; currently migrating to Google Workspace Marketplace]
 */
 
 function bold() {
